@@ -33,3 +33,4 @@ jobs:
           branch: output
           force: true
           directory: dist
+          commit_message: 🐍 update snake animation
