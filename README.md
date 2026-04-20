@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=sergkuz2190&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Affiliate%20%7C%20Python%20%7C%20JS&descAlignY=55&descAlign=50" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Python+%7C+JavaScript+%7C+HTML+developer;Affiliate+Marketing+Specialist+%F0%9F%92%B0;Building+tools+that+work+%F0%9F%94%A5)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Python+%7C+JavaScript+%7C+HTML+developer;Affiliate+Marketing+Specialist+%F0%9F%92%B0;Automating+workflows+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
@@ -54,12 +54,21 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [content-poster](https://github.com/sergkuz219034-boop/content-poster) | Auto content posting tool | Python |
-| [hr-chatbot-multiplatform](https://github.com/sergkuz219034-boop/hr-chatbot-multiplatform) | HR chatbot for multiple platforms | Python |
-| [dashboard-specs](https://github.com/sergkuz219034-boop/dashboard-specs) | Specs dashboard | JavaScript |
-| [hr-architect](https://github.com/sergkuz219034-boop/hr-architect) | HR architecture tool | HTML |
-| [mfo-broadcaster](https://github.com/sergkuz219034-boop/mfo-broadcaster) | MFO broadcast automation | HTML |
-| [rag](https://github.com/sergkuz219034-boop/rag) | RAG pipeline | Python |
+| [autolead](https://github.com/sergkuz219034-boop/autolead) | Lead generation from Rabota.ru with Google Sheets integration | Python |
+| [content-poster](https://github.com/sergkuz219034-boop/content-poster) | Automated content posting & scheduling | Python |
+| [hr-chatbot-multiplatform](https://github.com/sergkuz219034-boop/hr-chatbot-multiplatform) | Multi-platform HR chatbot & automation | Python |
+| [dashboard-specs](https://github.com/sergkuz219034-boop/dashboard-specs) | Interactive specs dashboard | JavaScript |
+| [mfo-broadcaster](https://github.com/sergkuz219034-boop/mfo-broadcaster) | MFO broadcast & messaging automation | Python |
+| [rag](https://github.com/sergkuz219034-boop/rag) | RAG pipeline for document processing | Python |
+
+---
+
+### 🐍 Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sergkuz219034-boop/sergkuz219034-boop/blob/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://github.com/sergkuz219034-boop/sergkuz219034-boop/blob/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
