@@ -17,6 +17,7 @@
 - 💰 Affiliate Marketing specialist
 - 🐍 Writing Python tools for real work
 - 🚀 HR bots, content automation, dashboards
+- 🤖 AI API gateways, Telegram automation
 
 <br clear="right"/>
 
@@ -29,9 +30,13 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 </div>
 
@@ -48,12 +53,18 @@
   <img src="https://streak-stats.demolab.com?user=sergkuz219034-boop&theme=tokyonight&hide_border=true&fire=DD2727" />
 </div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sergkuz219034-boop&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" />
+</div>
+
 ---
 
 ### 🚀 Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[TrafficHub](https://github.com/sergkuz219034-boop/TrafficHub)** | **AI-powered traffic & account management suite** | Python, FastAPI, SQLAlchemy |
+| ↳ [AccountManager](https://github.com/sergkuz219034-boop/TrafficHub/tree/codex-google-sheets-queues/AccountManager) | Account + proxy + AI gateway dashboard | Python, FastAPI, SQLite, JS |
 | [autolead](https://github.com/sergkuz219034-boop/autolead) | Lead generation from Rabota.ru with Google Sheets integration | Python |
 | [content-poster](https://github.com/sergkuz219034-boop/content-poster) | Automated content posting & scheduling | Python |
 | [hr-chatbot-multiplatform](https://github.com/sergkuz219034-boop/hr-chatbot-multiplatform) | Multi-platform HR chatbot & automation | Python |
@@ -66,8 +77,8 @@
 ### 🐍 Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sergkuz219034-boop/sergkuz219034-boop/blob/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github-snake" src="https://github.com/sergkuz219034-boop/sergkuz219034-boop/blob/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sergkuz219034-boop/sergkuz219034-boop/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github-snake" src="https://raw.githubusercontent.com/sergkuz219034-boop/sergkuz219034-boop/output/github-contribution-grid-snake.svg">
 </picture>
 
 ---
